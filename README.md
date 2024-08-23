@@ -1,10 +1,10 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
+ # NAME :NAKUL R 
+ # REGISTER NUMBER :212223240102
+ # DEPARTMENT : AI ML 
+ # YEAR : 2ND YEAR 
 
  
 # Aim:
@@ -49,7 +49,13 @@ XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
- 
+ ![1 1](https://github.com/user-attachments/assets/075f7f45-76b4-46cc-a87e-0e33827345bf)
+![2 1](https://github.com/user-attachments/assets/642a665f-c041-48e2-9451-e3b5f6eeddf5)
+![3 1](https://github.com/user-attachments/assets/6228a55b-7e74-41b4-997b-bb88b3d7e52b)
+![4 1](https://github.com/user-attachments/assets/e37ea7c0-d9f4-4221-b974-12744d431a2d)
+![5 1](https://github.com/user-attachments/assets/d3cae710-ab24-4964-a9fe-e94aa2b80b5e)
+![6 1](https://github.com/user-attachments/assets/8581ee20-b5fe-4bf3-8776-5cb6f03e0236)
+
 # Procedure:
 Setup the PLC Programming Environment:
 
@@ -79,7 +85,12 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+![iot expt 01](https://github.com/user-attachments/assets/00c2db33-af61-4d4e-adbb-b4c3c5210ba3)
 
+![iot expt 01 2](https://github.com/user-attachments/assets/e4ca34ab-04da-4154-b4b5-f42bbf476a05)
+![iot exp 01 3](https://github.com/user-attachments/assets/b6de0fa2-c9cb-428d-a51e-81147def198f)
+![iot exp 01 4](https://github.com/user-attachments/assets/b6c37d02-6105-48ad-abb8-7c478b76fead)
+![iot exp 01 5](https://github.com/user-attachments/assets/417b1d8d-fb39-4e33-ba92-35766724e88f)
 
 #Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
